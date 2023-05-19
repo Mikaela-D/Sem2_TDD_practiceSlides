@@ -1,3 +1,5 @@
+import ie.atu.Calculator;
+
 public class CalculatorTest {
 
     private int nbErrors = 0;
